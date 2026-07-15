@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR2g0034/krp/v1/juan/5
 seq: 5
 front:
-  text: 浦陽人物記跋此書始立稾而㢘侯景淵遽取刋布故其中牴牾者多今畧補定五十餘䖏視舊行為稍勝然㣲瑕尚衆以不涉於大義也寘之至正十三年九月望日濓記
-  hash: sha256:6321dc3163a99d2bd445beb019b121dc4590983341ab2818a1c52c5778af0e84
+  text: 浦陽人物記跋此書始立稿而廉侯景淵遽取刋布故其中抵牾者多今略補定五十餘處視舊行為稍勝然微瑕尚衆以不涉於大義也置之至正十三年九月望日濓記
+  hash: sha256:a9fe4b585b1179b1b6d15aef2ff811dfd0da8bbdfaa6acbd7e53154168de7dbf
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2g0034_WYG_005-1a, image: WYG0452/WYG0452-0035a.png}
 body:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2g0034/KR2g0034_005.txt
-hash: sha256:8f0d26f64fd43e01e2e1d6afe99e9be5551012a2f62fbf8874867e2980255a7e
+hash: sha256:1abe26ff7658d59062d462d5b9ee9d6fc5060b4b74f7238328eb24f9127efe22
