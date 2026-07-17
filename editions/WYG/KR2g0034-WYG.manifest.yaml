@@ -24,10 +24,10 @@ assets:
   - {seq: 4, filename: KR2g0034_004-WYG.yaml, hash: 'sha256:64d8eb3ba86625eaaca956b5614f22127a390ed63965d030b07b1d49ff25f7a0'}
   - {seq: 5, filename: KR2g0034_005-WYG.yaml, hash: 'sha256:d11f656f45ca2c35a4bb9985db7b8ff745be6d6d6ba7089615944a8c0e3397c8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0034_000-WYG.markers.yaml, hash: 'sha256:ab8097d17ef54546435f530ff0bd004753d2b69716a9f38a1defae242425c9fc'}
-  - {seq: 1, role: markers, filename: assets/KR2g0034_001-WYG.markers.yaml, hash: 'sha256:b87e1bbcea3035d6030633c33120a2744985f18188e633dbc515e7b2adf3c87f'}
+  - {seq: 0, role: markers, filename: assets/KR2g0034_000-WYG.markers.yaml, hash: 'sha256:5dfecec821b4e26ab2e9a296993f5bd4316daff6f744b4b21e328d7f8c23d262'}
+  - {seq: 1, role: markers, filename: assets/KR2g0034_001-WYG.markers.yaml, hash: 'sha256:9e653f5a1a580118cb940a7df6f84596882a2a2d650d8b6894e3e0b74b664a18'}
   - {seq: 2, role: markers, filename: assets/KR2g0034_002-WYG.markers.yaml, hash: 'sha256:411ff4986a661e2cb919a54c730e94a56d75337f8a3063e2a7ac9a8dc3020521'}
-  - {seq: 3, role: markers, filename: assets/KR2g0034_003-WYG.markers.yaml, hash: 'sha256:dc1e5e45bf4d494c17eba799c650d870d7eccccdfba5e0a107b5d43ce3746e97'}
+  - {seq: 3, role: markers, filename: assets/KR2g0034_003-WYG.markers.yaml, hash: 'sha256:22ee2ec47fdbf3a4c850792e05f2528eefe5ab96c22a5bf4158ac85373a5eecf'}
   - {seq: 4, role: markers, filename: assets/KR2g0034_004-WYG.markers.yaml, hash: 'sha256:7418a81b1db38d143d786c4546cd1c9f2d64363878d7cc6708942982f2219d16'}
   - {seq: 5, role: markers, filename: assets/KR2g0034_005-WYG.markers.yaml, hash: 'sha256:9edc720a6fbcdc2424069f04fff342dc0bb20cd3729051137b9b13fe76f7aec2'}
 table_of_contents:
@@ -111,4 +111,4 @@ table_of_contents:
   label: 跋
   type: section
   level: 1
-hash: sha256:156ed06680a5d973d4258c00e01ce5984de34022a28c3985f360c5033a61849f
+hash: sha256:13a5f270cb39a01d635721a35e338e07d10667a05647173eda2f81b5560c1b78
